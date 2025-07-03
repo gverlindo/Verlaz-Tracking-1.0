@@ -17,4 +17,4 @@ Este projeto é uma interface web para rastreamento de cargas marítimas, simula
 2. Renomeie o arquivo principal para `index.html`.
 3. Acesse as configurações do repositório em `Settings > Pages`.
 4. Selecione a branch `main` e a pasta `/root` como fonte.
-5. Acesse seu site em:
+
